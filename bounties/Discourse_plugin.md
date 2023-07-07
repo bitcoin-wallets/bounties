@@ -27,6 +27,6 @@ We are seeking a skilled developer or team to create a Discourse plugin that all
 
 ## Reward
 
-The reward for successfully completing this bounty will be $5000 USD, paid upon successful review and testing of the submitted plugin by the Proton Consortium.
+The reward for successfully completing this bounty will be $2,500 USD worth of XPR, paid upon successful review and testing of the submitted plugin by the Proton Consortium.
 
 To claim this bounty, please open a new issue in this repository, using the "Claim a Bounty" template. In the issue, state your intention to work on this bounty and provide your estimated completion date. Remember, bounties are claimed on a first-come, first-served basis.
