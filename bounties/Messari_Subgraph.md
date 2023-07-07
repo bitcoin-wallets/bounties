@@ -2,7 +2,7 @@
 
 ## Overview
 
-We are seeking a skilled developer or team to connect ProtonDEX to the Messari subgraph, enabling the extraction and transformation of raw blockchain data into meaningful metrics for analytics and products. The goal is to provide accurate and up-to-date data from ProtonDEX to the Messari platform.
+We are seeking a skilled developer or team to connect ProtonDEX to the Messari subgraph, enabling the extraction and transformation of raw blockchain data into meaningful metrics for analytics and products. The goal is to provide accurate and up-to-date data from ProtonDEX to the [Messari platform](https://messari.io/protocol/proton-dex).
 
 ## Requirements
 
