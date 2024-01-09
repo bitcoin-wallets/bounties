@@ -28,7 +28,7 @@ We seek a skilled developer or team to develop a Shopify plugin enabling custome
 
 ## Reward
 
-The successful completion and testing of the plugin by the XPR Consortium will be rewarded with $10,000 USD.
+The successful completion and testing of the plugin by the XPR Consortium will be rewarded with $10,000 USD worth of XPR tokens.
 
 ## How to Claim this Bounty
 
