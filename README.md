@@ -47,6 +47,6 @@ Payments are made in XPR at the time of the bounty completion sign off by the XP
 
 ## Bounty Operator
 
-- Paul Grey
+- VU THI TRA MY
 
 Please note that this document is subject to change; please check the latest version here on GitHub.
